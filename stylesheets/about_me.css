@@ -1,0 +1,29 @@
+body {
+    background-color: offwhite;
+    font-family: sans-serif;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+h1 {
+    color: Red;
+    border-bottom: 2px solid
+}
+
+h2 {
+    color: DarkBlue;
+    font-size: 1.2em;
+}
+
+h2, p {
+    color: 
+}
+
+img {
+    position: absolute; 
+    top: 10px; 
+    right: 10px;
+}
+ul {
+
+}
